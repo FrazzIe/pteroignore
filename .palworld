@@ -1,0 +1,6 @@
+*
+!Pal/Saved/SaveGames/
+!Pal/Saved/SaveGames/*
+!Pal/Saved/SaveGames/*/*
+!Pal/Saved/SaveGames/*/*/*
+!Pal/Saved/Config/LinuxServer/PalWorldSettings.ini
