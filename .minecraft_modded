@@ -1,0 +1,9 @@
+*
+!/config/
+!/config/*
+!/mods/
+!/mods/*
+!/plugins/
+!/plugins/*
+!/world/
+!/world/*
