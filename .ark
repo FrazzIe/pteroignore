@@ -1,0 +1,6 @@
+*
+!ShooterGame/Saved/SavedArks/*
+!ShooterGame/Saved/SaveGames/*
+!ShooterGame/Saved/Config/LinuxServer/GameUserSettings.ini
+!ShooterGame/Saved/Config/LinuxServer/Game.ini
+!ShooterGame/Saved/Config/LinuxServer/Engine.ini
